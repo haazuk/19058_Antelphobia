@@ -10,6 +10,10 @@
  */
 
 ?>
+<h1>This is not my footer</h1>
+<h2><?php the_date() ?></h2>
+<h3> I wonder who wrote this must be a mistake</h3>
+
 
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
